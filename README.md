@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Akhil
-- 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning nodeJs
-- 💞️ I’m looking to collaborate on creative web design projects, or anything involving front-end development.
-- 📫 How to reach me 369akhilkb@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Code is poetry
+# 👋 Hi, I'm Akhil
+
+> **Front-End Developer | Building responsive, user-focused web experiences.**
+
+* 💻 **Focus:** Front-End Development & Creative Web Design
+* 💞️ **Open to:** Collaborating on creative web development projects
+* 📫 **Reach me:** [369akhilkb@gmail.com](mailto:369akhilkb@gmail.com)
+* ⚡ **Fun fact:** Code is poetry
+
+*Pronouns: he/him*
 
 <!---
 akhil-x/akhil-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
